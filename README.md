@@ -1,0 +1,2 @@
+# DeciCore_STM32G070R
+STM32G070R核心板
